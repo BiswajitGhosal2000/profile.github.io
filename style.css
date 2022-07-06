@@ -39,8 +39,8 @@
 }
 .profile-pic{
 	width: 200px;
-	border-radius: 50%;
-	background: linear-gradient(red,yellow,blue);
+	border-radius: 30%;
+	background: linear-gradient(red,yellow,blue,green);
 	padding: 10px;
 }
 .social-media img{
@@ -49,19 +49,9 @@
 	cursor: pointer;
 }
 .profile-bottom{
-	background:yellow;
 	color:black;
-	padding: 10px 2px;
-	margin-right: -90px;
-	margin-left: -90px;
-	margin-bottom: -40px;
-	margin-top: 25px;
-	border-radius: 20px;
-}
-.profile-bottom img{
-	width: 40px;
-	margin-top: 15px;
-	cursor: pointer;
+	font-size: 20px;
+	margin-top: 30px;
 }
 .profile-box button{
 	background: white;
@@ -73,7 +63,7 @@
 	border-radius: 30px;
 	margin-bottom: -50px;
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 20px;
 	cursor: pointer;
 }
 .profile-box h3{
@@ -95,15 +85,20 @@ table,td{
 	border-style: inset;
 }
 th{
-	background: rgb(155, 12, 249);
+	background: white;
+	color: red;
 }
 td:nth-child(odd){
 	background:burlywood;
 }
 td:nth-child(even){
-	background:greenyellow;
+	background:gold;
 }
 td img{
 	height: 100px;
 	width:100px;
+}
+iframe{
+	width: 70%;
+	height: 90%;
 }
