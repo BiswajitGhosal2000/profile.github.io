@@ -87,6 +87,23 @@
 	color: #fff;
 	font-style: oblique;
 }
-#skills h1{
+h1{
 	text-align: center;
+}
+table,th,td{
+	font-weight: bold;
+	font-size: 50px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	padding: 10px;
+	border: 10px solid blue;
+	border-collapse: collapse;
+	border-radius: 20px;
+	border-style: inset;
+}
+th,td{
+	background: skyblue;
+}
+td img{
+	height: 100px;
+	width:100px;
 }
