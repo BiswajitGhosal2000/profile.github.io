@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    background-image:url('https://i.pinimg.com/originals/d6/a6/92/d6a692fc1e0489955e2b4ed4ae742c76.jpg');
+}
+nav{
+    position: sticky;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+button{
+    color:white;
+    text-decoration:none;
+    border-radius: 20px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
