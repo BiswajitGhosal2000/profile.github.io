@@ -39,7 +39,8 @@
 }
 .profile-pic{
 	width: 200px;
-	border-radius: 100px;
+	height: 250px;
+	border-radius: 60%;
 	background: linear-gradient(red,yellow,blue,green);
 	padding: 10px;
 }
